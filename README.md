@@ -2,7 +2,7 @@
 
 Android app to use as the base app for implementing material design style navigation drawer.
 
-<img src="http://i.imgur.com/SSpyxZZ.gif" height="500"/>
+<img src="https://github.com/tyrone8980/NavigationBarPractice/blob/master/walkthrough.gif"/>
 
 The app provides four pre-defined fragments to use when a list item in the navigation drawer is clicked.
 * SouthParkFragment
@@ -10,12 +10,7 @@ The app provides four pre-defined fragments to use when a list item in the navig
 * SimpsonsFragment
 * FuturamaFragment
 
-## Usage
-This app is intended to be the base project on top of which new features can be added. To use it, clone the project and import it using the following steps:
-
-![Imgur](http://i.imgur.com/joPKoTk.gif)
-
-## Suggested extensions:
+## Extensions:
 
 1. Implement material design style navigation drawer.
 2. Populate the drawer list with items comprised of icon and title.
